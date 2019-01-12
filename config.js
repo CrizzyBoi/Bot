@@ -1,0 +1,3 @@
+  "token": process.env.TOKEN,
+
+TOKEN=NTIwODM2NTM4OTc2OTYwNTI3.Dxrpcw.CE7sXa990RJlvy2o0IH32VN-cJ4
